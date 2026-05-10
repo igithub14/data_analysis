@@ -1,30 +1,30 @@
-# > \*\*PROGETTO: ANALISI DELLE PRENOTAZIONI E DEI RICAVI ALBERGHIERI\*\*
+###### PROGETTO: ANALISI DELLE PRENOTAZIONI E DEI RICAVI ALBERGHIERI
 
-# >
+###### 
 
-# > In questo progetto ho analizzato i dati delle prenotazioni per identificare i fattori di rischio e le dinamiche dei prezzi (ADR) per City Hotel e Resort Hotel.
+###### In questo progetto ho analizzato i dati delle prenotazioni per identificare i fattori di rischio e le dinamiche dei prezzi (ADR) per City Hotel e Resort Hotel.
 
-# >
+###### 
 
-# > \*\*Attività svolte:\*\*
+###### COSA HO FATTO:
 
-# > \* Pulizia dei dati (Data Cleaning) e gestione dei valori mancanti.
+###### \- Pulizia dei dati (Data Cleaning) e gestione dei valori mancanti.
 
-# > \* Analisi delle cancellazioni in relazione all'anticipo della prenotazione.
+###### \- Analisi delle cancellazioni in relazione all'anticipo della prenotazione.
 
-# > \* Analisi della stagionalità dei prezzi medi giornalieri (ADR).
+###### \- Analisi della stagionalità dei prezzi medi giornalieri (ADR).
 
-# > \* Data Visualization con grafici bivariati e serie temporali.
+###### \- Data Visualization con grafici bivariati e serie temporali.
 
-# >
+###### 
 
-# > \*\*Risultati principali:\*\*
+###### INSIGHT PRINCIPALI:
 
-# > \* \*\*Soglia di rischio:\*\* Le prenotazioni con oltre 90 giorni di anticipo mostrano un tasso di cancellazione vicino al 50%.
+###### \- Soglia di rischio: Le prenotazioni con oltre 90 giorni di anticipo mostrano un tasso di cancellazione vicino al 50%.
 
-# > \* \*\*Stagionalità:\*\* Il Resort Hotel raddoppia i prezzi ad agosto (+100%), mentre il City Hotel ha prezzi più stabili tutto l'anno.
+###### \- Stagionalità: Il Resort Hotel raddoppia i prezzi ad agosto (+100%), mentre il City Hotel ha prezzi più stabili.
 
-# >
+###### 
 
-# > \*\*Strumenti:\*\* Python, Pandas, Matplotlib, Seaborn.
+###### STRUMENTI USATI: Python, Pandas, Matplotlib, Seaborn.
 
