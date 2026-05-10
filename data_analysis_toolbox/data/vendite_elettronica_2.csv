@@ -1,0 +1,11 @@
+ID_Ordine,Prodotto,Categoria,Mese,Prezzo,Quantita
+1,Smartphone,Elettronica,Gennaio,600,1
+2,Laptop,Informatica,Gennaio,1200,1
+3,Smartphone,Elettronica,Febbraio,550,2
+4,Tablet,Informatica,Gennaio,300,1
+5,Laptop,Informatica,Febbraio,1150,1
+6,Tablet,Informatica,Marzo,320,3
+7,Smartphone,Elettronica,Marzo,580,1
+8,Smartphone,Elettronica,Gennaio,610,2
+9,Laptop,Informatica,Marzo,1250,1
+10,Tablet,Informatica,Febbraio,310,2

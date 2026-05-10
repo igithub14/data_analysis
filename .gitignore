@@ -1,0 +1,19 @@
+# Python - file compilati
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook - checkpoint e file temporanei
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# File di sistema e log
+.DS_Store
+*.log
+
+# Cartelle di ambienti virtuali (se ne usi)
+venv/
+env/
+
+# File temporanei Microsoft Office
+~$*
+.~lock.*

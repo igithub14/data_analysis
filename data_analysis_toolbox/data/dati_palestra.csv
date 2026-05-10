@@ -1,0 +1,11 @@
+ID_Ingresso,Sede,Tipo_Abbonamento,Fascia_Oraria,Costo_Ingresso
+1,Centro,Mensile,Mattina,10
+2,Centro,Annuale,Sera,10
+3,Periferia,Mensile,Pomeriggio,8
+4,Centro,Mensile,Sera,10
+5,Periferia,Annuale,Mattina,8
+6,Periferia,Mensile,Mattina,8
+7,Centro,Annuale,Pomeriggio,10
+8,Periferia,Annuale,Sera,8
+9,Centro,Mensile,Pomeriggio,10
+10,Periferia,Mensile,Sera,8

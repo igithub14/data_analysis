@@ -1,0 +1,11 @@
+ID_Ordine,Corriere,Zona,Stato_Consegna,Minuti_Impiegati
+1,FastPost,Centro,Consegnato,25
+2,SlowMail,Periferia,Ritardo,55
+3,FastPost,Periferia,Consegnato,35
+4,FastPost,Centro,Consegnato,20
+5,SlowMail,Centro,Ritardo,45
+6,SlowMail,Periferia,Consegnato,50
+7,FastPost,Periferia,Consegnato,40
+8,SlowMail,Centro,Consegnato,38
+9,FastPost,Centro,Consegnato,18
+10,SlowMail,Periferia,Ritardo,65
